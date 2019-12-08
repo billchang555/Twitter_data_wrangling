@@ -1,5 +1,8 @@
 # Twitter_dog_rates_Data_Wrangling
 
+## Introduction of dataset
+Wrangle the dataset of twitter user of @dog_rates, nickname of WeRateDogs. WeRateDogs rates various dogs. Normally 10 is used as the nominator, however, denominator usually bigger than 10, such as 11、12、13. Why they have such ratings? Because they are good dogs. WeRateDogs has 4 million followers, widely reported by international medias.
+
 ## Wrangle_report
 This data wrangling process mainly contains five parts, which respectively are Gather, Assess, Clean, Reassessment and Save the csv.
 
